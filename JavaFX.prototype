@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication" visibleAttributes="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES, org.eclipse.jdt.launching.VM_ARGUMENTS, bad_container_name, org.eclipse.jdt.debug.ui.CONSIDER_INHERITED_MAIN, org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR, org.eclipse.jdt.debug.ui.INCLUDE_EXTERNAL_JARS, org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD">
+<stringAttribute key="bad_container_name" value="/Assign"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Assignment2/src/ca/utoronto/utm/mvcexample/MVCApplication.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.debug.ui.CONSIDER_INHERITED_MAIN" value="true"/>
+<booleanAttribute key="org.eclipse.jdt.debug.ui.INCLUDE_EXTERNAL_JARS" value="true"/>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ca.utoronto.utm.mvcexample.MVCApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Assignment2"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--module-path &quot;/usr/lib/jvm/java-11-openjdk/lib&quot; --add-modules javafx.controls,javafx.fxml"/>
+</launchConfiguration>
